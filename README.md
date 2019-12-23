@@ -2,7 +2,8 @@
 
 
 # News: 
-We released the paper on \url{ArXiv}.
+Manuscript is avaiable in [Arxiv](https://arxiv.org/abs/1911.12451)
+
 
 
 # Citation
