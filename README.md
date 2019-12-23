@@ -1,7 +1,11 @@
 # Empirical Upper Bound in Object Detection and More
 
 
-**News**: Manuscript is avaiable in [Arxiv](https://arxiv.org/abs/1911.12451)
+** Work in Progress ... **
+
+
+
+**News**: Manuscript is avaiable in [Arxiv](https://arxiv.org/abs/1911.12451).
 
 
 ## Introduction
